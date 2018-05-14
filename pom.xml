@@ -21,6 +21,10 @@
     <scm>
         <url>https://github.com/cesardl/sakila-jee</url>
     </scm>
+    <issueManagement>
+        <system>Github</system>
+        <url>https://github.com/cesardl/sakila-jee/issues</url>
+    </issueManagement>
 
     <properties>
         <modelmapper.version>0.7.5</modelmapper.version>
